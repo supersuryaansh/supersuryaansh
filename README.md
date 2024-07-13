@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supersuryaansh
-- 👀 I’m interested in PHP, Java and Linux
-- 🌱 I’m currently learning Linux and Java
-- 💞️ I’m looking to collaborate on PHP projects
+- 👀 I’m interested in PHP, P2P, Cloud, WordPress and Linux
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m building Holesail.io
 
 <!---
 supersu738/supersu738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
